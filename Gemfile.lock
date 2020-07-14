@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    faraday (1.0.1)
+      multipart-post (>= 1.2, < 3)
+    jwt (2.2.1)
+    multipart-post (2.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  faraday
+  jwt
+
+BUNDLED WITH
+   1.17.2
