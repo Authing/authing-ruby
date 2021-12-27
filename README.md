@@ -1,5 +1,8 @@
 # SDK for Ruby
 
+<div align=center><img src="https://files.authing.co/authing-console/authing-logo-new-20210924.svg"></div>
+<br/>
+
 ## Install
 
 ```sh
@@ -86,3 +89,14 @@ res = authing.createRBACRole({
   userPoolId: "5f0c2597061ec4de51237379",
 })
 ```
+
+## 参与贡献
+- Fork it
+- Create your feature branch (git checkout -b my-new-feature)
+- Commit your changes (git commit -am 'Add some feature')
+- Push to the branch (git push origin my-new-feature)
+- Create new Pull Request
+
+## 获取帮助
+
+Join us on forum: [#authing-chat](https://forum.authing.cn/)
